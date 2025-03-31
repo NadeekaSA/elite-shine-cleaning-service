@@ -37,4 +37,4 @@ A Flutter-based mobile application that connects customers with professional cle
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/elite-shine-cleaning-service.git
+   git clone https://github.com/NadeekaSA/elite-shine-cleaning-service.git
